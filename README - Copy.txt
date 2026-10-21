@@ -1,0 +1,1 @@
+Week 5 lab prepared from supplied lab05.zip. IMPORTANT: styles/lab04.css is a reconstructed baseline because your actual Week 4 lab04.css was not included. Replace it with your own Week 4 stylesheet to meet the exact reuse requirement. The original supplied HTML, images, fade.jpg and dl.css are retained. Validate and publish using your GitHub lab05 repository.
